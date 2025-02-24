@@ -1,4 +1,4 @@
-package controle.enums;
+package enums;
 
 public enum Dieta {
     CARNIVORO, HERBIVORO, ONIVORO
